@@ -1,0 +1,5 @@
+const distanciakm = 10;
+const distanciam = 1000;
+
+console.log("distancia em quilometros="distanciakm);
+console.log("distancia em metros="distanciam);
