@@ -1,0 +1,8 @@
+et raio=5;
+let pi=3.14;
+let area=pi*(raio**2);
+
+
+console.log('raio do circulo=',raio);
+console.log('valor de pi=',pi);
+console.log('area do circulo= ',area);
