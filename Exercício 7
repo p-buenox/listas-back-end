@@ -1,0 +1,8 @@
+const nota1 = 80;
+const nota2 = 70;
+const nora3 = 90;
+
+const media=(nota1+nota2+nota3)/3;
+
+console.log(media);
+console.log("a media das notas=",media);
