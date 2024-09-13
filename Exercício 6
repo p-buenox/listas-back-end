@@ -1,0 +1,5 @@
+const numero1=7;
+const numero2=5;
+
+const produto = numero1*numero2;
+console.log(multiplicacao);
