@@ -1,0 +1,6 @@
+const string1 ='pierre';
+const string2 ='bueno';
+
+const nomecompleto ='string1'+''+ 'string2';
+
+console.log (nomecompleto);
