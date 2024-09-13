@@ -1,0 +1,6 @@
+onst y = 5;
+const x = 3;
+const z = 1;
+
+const soma = y+x+z;
+console.log(soma);
